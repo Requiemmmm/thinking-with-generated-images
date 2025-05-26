@@ -62,7 +62,7 @@ We implement our *Thinking with Generated Images* paradigm by supervised fine-tu
 huggingface-cli download --resume-download GAIR/twgi-critique-anole-7b --local-dir twgi-critique-anole-7b --local-dir-use-symlinks False
 huggingface-cli download --resume-download GAIR/twgi-subgoal-anole-7b --local-dir twgi-subgoal-anole-7b --local-dir-use-symlinks False
 ```
-2. Install requirements and `transformers` from the `chameleon` branch (already included in this repo). This transformers library is modified from [leloy's implementation](https://github.com/leloykun/transformers/tree/fc--anole).
+2. Install requirements and `transformers` from the `chameleon` branch (already included in this repo). This transformers library is modified from [leloykun's implementation](https://github.com/leloykun/transformers/tree/fc--anole).
 ```
 bash install.sh
 ```
