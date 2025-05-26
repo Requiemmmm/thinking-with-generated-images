@@ -1,4 +1,4 @@
-# Thinking with Generated Images
+# 💡Thinking with Generated Images
 
 <p align="center" width="100%">
 <img src="assets/logo.png" alt="thinking-with-generated-images" height="450" style="width:85%; min-width: 100px; display: block; margin: auto;">
