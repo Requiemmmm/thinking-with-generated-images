@@ -69,7 +69,7 @@ bash install.sh
 
 
 ### Inference
-The inference code supports *vision generation with intermediate visual sub-goals* and *vision generation with self-critique*. We also support general multimodal generation on the original [Anole-7b](https://github.com/GAIR-NLP/anole). Remember to download the corresponding model ([twgi-subgoal-anole-7b](https://huggingface.co/GAIR/twgi-subgoal-anole-7b), [twgi-critique-anole-7b](https://huggingface.co/GAIR/twgi-critique-anole-7b), [Anole-7b](https://huggingface.co/leloy/Anole-7b-v0.1-hf)) and specify the model path in `./inference/inference.sh`. 
+The inference code supports *vision generation with intermediate visual sub-goals* and *vision generation with self-critique*. We also support general multimodal generation on the original [Anole-7b](https://github.com/GAIR-NLP/anole). Remember to download the corresponding model ([twgi-subgoal-anole-7b](https://huggingface.co/GAIR/twgi-subgoal-anole-7b), [twgi-critique-anole-7b](https://huggingface.co/GAIR/twgi-critique-anole-7b), [Anole-7b](https://huggingface.co/GAIR/Anole-7b)) and specify the model path in `./inference/inference.sh`. 
 ```
 cd inference
 bash inference.sh
