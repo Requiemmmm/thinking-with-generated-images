@@ -7,7 +7,7 @@
 <p align="center">
   📤 <a href="https://github.com/GAIR-NLP/thinking-with-generated-images#-get-started" target="_self">Get Started</a> &nbsp; | &nbsp;
   <!-- 🌐 <a href="https://gair-nlp.github.io/thinking-with-generated-images" target="_blank">Website</a> &nbsp; | &nbsp; -->
-  📄 <a href="http://arxiv.org/abs/2505.xxxxx" target="_blank">Preprint (Coming soon)</a> &nbsp; | &nbsp;
+  📄 <a href="https://arxiv.org/abs/2505.22525" target="_blank">Preprint</a> &nbsp; | &nbsp;
   🤗 <a href="https://huggingface.co/GAIR/twgi-subgoal-anole-7b" target="_blank">Hugging Face (Subgoal)</a> &nbsp; | &nbsp;
   🤗 <a href="https://huggingface.co/GAIR/twgi-critique-anole-7b" target="_blank">Hugging Face (Critique)</a> &nbsp; | &nbsp;
 </p>
@@ -97,12 +97,12 @@ We also provide the example data tokenization code in `./training/tokenization.p
 The trained models based on anole follow the same license as [Chameleon](https://ai.meta.com/resources/models-and-libraries/chameleon-license).
 
 ## Citation
-Please cite our [paper](https://arxiv.org/abs/2505.xxxxx) if you find the repository helpful.
+Please cite our [paper](https://arxiv.org/abs/2505.22525) if you find the repository helpful.
 ```
 @article{chern2025thinkingwithgeneratedimages,
   title={Thinking with Generated Images},
   author={Chern, Ethan and Hu, Zhulin and Chern, Steffi and Kou, Siqi and Su, Jiadi and Ma, Yan and Deng, Zhijie and Liu, Pengfei},
-  journal={arXiv preprint arXiv:2505.xxxxx},
+  journal={arXiv preprint arXiv:2505.22525},
   year={2025}
 } 
 ```
